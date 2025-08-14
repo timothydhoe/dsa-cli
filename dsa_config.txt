@@ -1,0 +1,4 @@
+# DSA-CLI Settings
+speed=3
+colors=true
+bar_char=&
