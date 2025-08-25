@@ -53,7 +53,8 @@ int main(int argc, char *argv[])
     }
 
     // Show current settings
-    if (strcmp(argv[1], "--settings") == 0) {
+    if (strcmp(argv[1], "--settings") == 0)
+    {
         printf("Current settings:\n");
         printf("  Speed: %d (%s)\n", g_settings.animation_speed,
                g_settings.animation_speed == 1 ? "slow" : 

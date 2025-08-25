@@ -52,7 +52,7 @@ void print_usage(void)
     print_heading("Other:\n");
     printf("  --list          List all algorithms\n");
     printf("  --tutorial      Start tutorial\n");
-    printf("  --help          Show this help\n");
+    printf("  -h, --help      Show this help\n");
     printf("\n");
 
     print_heading("Examples:\n");

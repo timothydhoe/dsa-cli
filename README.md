@@ -3,8 +3,12 @@
 # DSA-CLI — Learn Data Structures and Algorithms Visually
 <br>
 
-Your friendly command-line companion for learning data structures and algorithms with **animations, code examples**, and **step-by-step explanations**.
+#### Video Demo:  [`Demo here`](https://vimeo.com/1112850498?share=copy#t=0.415)
+*This project was created for the final project of CS50's Introduction to Computer Science.*
 
+<br>
+
+Your friendly command-line companion for learning data structures and algorithms with **animations, code examples**, and **step-by-step explanations**.
 <br>
 
 ![main image](./header.png)
